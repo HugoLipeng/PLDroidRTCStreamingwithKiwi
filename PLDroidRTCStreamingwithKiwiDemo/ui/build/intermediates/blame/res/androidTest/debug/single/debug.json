@@ -1,0 +1,1794 @@
+[
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_inkwell.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/inkwell.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_xiazai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/xiazai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_kai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/kai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_brooklyn.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/brooklyn.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_filter_none.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/filter_none.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_kaiguan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/kaiguan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_abc_search_url_text.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_sierra.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/sierra.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_kai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/kai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_d_face.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/d_face.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_sketch.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/sketch.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_beautyskin.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/beautyskin.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_shoulian_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/shoulian_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_btn_camera_shutter.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/btn_camera_shutter.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_selector_sticker.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/selector_sticker.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_texiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/texiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_n1977.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/n1977.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_meiyan_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/meiyan_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_quxiaonormal.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/quxiaonormal.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_jintou.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/jintou.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_filter_none.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/filter_none.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_tiezhi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/tiezhi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_shoulian_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/shoulian_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_iconliwu.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/iconliwu.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_texiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/texiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_mianju.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/mianju.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_meiyan_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/meiyan_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_liwu_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/liwu_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_filter_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/filter_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_shoushi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/shoushi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_item_sticker.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/item_sticker.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_quxiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/quxiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_jintou.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/jintou.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_crayon.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/crayon.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_latte.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/latte.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_meiyan_3.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/meiyan_3.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_guan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/guan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_emerald.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/emerald.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_liwu_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/liwu_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_mianju.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/mianju.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_filter_thumb_original.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/filter_thumb_original.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_switch_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/switch_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_shoushi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/shoushi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_downloading.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/downloading.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_beauty_part_radio.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/beauty_part_radio.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_iconliwu.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/iconliwu.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_cool.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/cool.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_filter_confirm.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/filter_confirm.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_sunrise.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/sunrise.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_texiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/texiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_selector_rewardcamera.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/selector_rewardcamera.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_texiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/texiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_d_eye.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/d_eye.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_shoushi.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/shoushi.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_tiezhi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/tiezhi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_healthy.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/healthy.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_paishe.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/paishe.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_shoulian_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/shoulian_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_shoulian_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/shoulian_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_amaro.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/amaro.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_shoushi.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/shoushi.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_guan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/guan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_iconliwu.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/iconliwu.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_paishe.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/paishe.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_quxiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/quxiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_effect_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/effect_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_lyon_icon.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/lyon_icon.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_spring_icon.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/spring_icon.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_tender.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/tender.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_freud.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/freud.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_control_bottom_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/control_bottom_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_quxiaonormal.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/quxiaonormal.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tiezhi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tiezhi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_guan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/guan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_meiyan_3.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/meiyan_3.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_jintou.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/jintou.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_tiezhi_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/tiezhi_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_nostalgia.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/nostalgia.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_quxiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/quxiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_control_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/control_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_face_beauty2_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/face_beauty2_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_toaster2_filter_shader.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/toaster2_filter_shader.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_shoushi.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/shoushi.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_selector_filter_selected.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/selector_filter_selected.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_antique.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/antique.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_kaiguan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/kaiguan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_whitecat.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/whitecat.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_warm.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/warm.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_sticker_radio.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/sticker_radio.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_hudson.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/hudson.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_valencia.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/valencia.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_tiezhi_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/tiezhi_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_quxiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/quxiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_beauty.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/beauty.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_hefe.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/hefe.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_mianju.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/mianju.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liwu_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liwu_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_calm.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/calm.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_skinwhiten.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/skinwhiten.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_xiazai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/xiazai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_shoushi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/shoushi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_xiazai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/xiazai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_quxiaonormal.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/quxiaonormal.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_shoushi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/shoushi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_tiezhi_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tiezhi_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_jintou.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jintou.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_iconliwu.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/iconliwu.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_liwu_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/liwu_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_paishe.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/paishe.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_xiazai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/xiazai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_default_fragment.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/default_fragment.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_filter_none.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/filter_none.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_halfpinch.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/halfpinch.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_meiyan_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/meiyan_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_shoulian_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/shoulian_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_tiezhi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/tiezhi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_misty_icon.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/misty_icon.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_xproii_filter_shader.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/xproii_filter_shader.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_evergreen.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/evergreen.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_template_lines.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_nashville.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/nashville.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_btn_camera_effect.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/btn_camera_effect.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_earlybird.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/earlybird.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_sunset.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/sunset.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_mianju.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/mianju.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_meiyan_3.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/meiyan_3.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_newbeauty.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/newbeauty.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_sakura.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/sakura.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_suger_tablets.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/suger_tablets.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_brannan.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/brannan.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_shoulian_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/shoulian_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_kevin_new.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/kevin_new.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_meiyan_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/meiyan_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_beauty_second.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/beauty_second.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_sticker_selected.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/sticker_selected.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_switch_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/switch_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_jintou.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/jintou.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_paishe.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/paishe.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_text_cursor_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_sutro.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/sutro.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_paishe.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/paishe.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_filter_random.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/filter_random.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_shoulian_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/shoulian_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_shoulian_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/shoulian_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_rise.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/rise.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_kaiguan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/kaiguan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_kaiguan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/kaiguan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_quxiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/quxiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_fade_out.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_meiyan_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/meiyan_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_blackcat.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/blackcat.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_default_vertex.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/default_vertex.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_tiezhi_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/tiezhi_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_kai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/kai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_shoulian_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/shoulian_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_filter_item_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/filter_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_eye_thin_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/eye_thin_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_filter_none.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/filter_none.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_meiyan_3.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/meiyan_3.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_loading_animation.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/anim/loading_animation.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_lomo.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/lomo.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_tiezhi_1.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/tiezhi_1.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_shoulian_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/shoulian_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_sweets.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/sweets.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_sticker_layout.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/layout/sticker_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_quxiaonormal.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/quxiaonormal.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_romance.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/romance.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable_btn_camera_filter.xml.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable/btn_camera_filter.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_kaiguan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kaiguan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_pixar.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/pixar.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_tiezhi_2.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/tiezhi_2.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_texiao.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/texiao.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_guan.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/guan.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_shoushi.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-mdpi-v4/shoushi.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-ldrtl-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_meiyan_3.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/meiyan_3.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/raw_walden.glsl.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/kw-filter.aar/8768199a22e534abee2f811a2f710222/res/raw/walden.glsl"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_xiazai.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/xiazai.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_mianju.png.flat",
+        "source": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/mianju.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hugo/Documents/workspace/RTC_1.1.0_kiwi/ui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/hugo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/f0a4769df150abf1a81a6b5665868b7f/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    }
+]
